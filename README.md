@@ -1,4 +1,4 @@
-# Tsega Gewe project 8
+# WebdriverIO project 8
 
 This project aims to test the functionality of Urban Routes, a taxi ordering system.
 
